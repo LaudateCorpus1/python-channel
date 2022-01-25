@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/googleapis/python-channel/compare/v1.6.3...v1.7.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#133](https://github.com/googleapis/python-channel/issues/133)) ([df6f6d7](https://github.com/googleapis/python-channel/commit/df6f6d723d507cb332b70c343c92468b90298327))
+
 ### [1.6.3](https://www.github.com/googleapis/python-channel/compare/v1.6.2...v1.6.3) (2021-11-13)
 
 
